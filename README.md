@@ -9,6 +9,6 @@ npm install -g webpack
 
 # run
 ```
-webpack ./entry.js bundel.js
+webpack ./entry.js bundel.js --module-bind 'css=style!css'
 
 ```
