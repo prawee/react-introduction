@@ -6,3 +6,9 @@ practise code after read books.
 npm install -g webpack
 
 ```
+
+# run
+```
+webpack ./entry.js bundel.js
+
+```
